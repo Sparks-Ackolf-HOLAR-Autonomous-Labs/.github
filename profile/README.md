@@ -2,7 +2,7 @@
 
 We are the Home of Laboratory Automation Research (HóLAR) at the University of Utah, a team in Professor Taylor Sparks' research group. We develop autonomous laboratories, self-driving laboratories (SDLs) and materials acceleration platforms.
 
-Our current work asks how a self-driving materials laboratory should reuse knowledge from sources whose fidelity is known only in relative terms: density functional theory at different levels, machine-learned interatomic potentials, molecular dynamics, experimental compilations and materials databases. Each repository below holds the code and data behind one article; every figure script runs from a fresh copy of its repository.
+Our current work asks how a self-driving materials laboratory should reuse knowledge from sources whose fidelity is known only in relative terms: density functional theory at different levels, machine-learned interatomic potentials, molecular dynamics, experimental compilations and materials databases. Each repository below holds the code and data behind one article; every figure script runs from a fresh copy of its repository. The two articles marked "in preparation" will be linked once their campaigns are complete.
 
 #### Sources: trusting a borrowed source
 
@@ -10,6 +10,7 @@ Our current work asks how a self-driving materials laboratory should reuse knowl
 |---|---|
 | [PEGKi_Rating](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/PEGKi_Rating) | Evaluating transfer across modalities in autonomous materials systems |
 | [TENKi_Savings](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/TENKi_Savings) | Counting the value of borrowed knowledge to a materials campaign in measurements saved |
+| WedgedSDL_Dispatch (in preparation) | Pull scheduling lets a network of frugal twins share multi-fidelity campaigns |
 
 #### Updates: when the evidence changes
 
@@ -27,6 +28,7 @@ Our current work asks how a self-driving materials laboratory should reuse knowl
 |---|---|
 | [QedSDL_Endpoint](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/QedSDL_Endpoint) | How the fruit fly connectome can help autonomous materials discovery |
 | [HatSDL_Forecast](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/HatSDL_Forecast) | Laboratory plans let a self-driving database prepare for the workload of a two-dimensional materials laboratory network |
+| CupSDL_Teams (in preparation) | A wind tunnel for team structure: hypergraph learning on a network of frugal self-driving laboratories |
 | [ATEKi_Credit](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/ATEKi_Credit) | Fairly dividing a discovery campaign's outcome among its members, meetings, and borrowed knowledge |
 
 #### Owners: when the knowledge is owned by separate parties
