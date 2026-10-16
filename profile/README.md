@@ -41,7 +41,6 @@ Our current work asks how a self-driving materials laboratory should reuse knowl
 
 | Repository | Topic |
 |---|---|
-| [HaikuSDL](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/HaikuSDL) | Modular self-driving laboratory assembly and architecture for plug-and-play |
 | [WedgedSDL](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/WedgedSDL) | Network of low-cost self-driving laboratory units (code to follow) |
 
 Each article repository is archived on Zenodo at release; cite the version DOI shown on its README.
