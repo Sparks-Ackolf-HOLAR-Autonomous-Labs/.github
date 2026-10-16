@@ -18,7 +18,7 @@ Our current work asks how a self-driving materials laboratory should reuse knowl
 |---|---|
 | [NablaSDL_Revision](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/NablaSDL_Revision) | Graded revision lets autonomous campaigns update symbolic laws of SiGeC semiconductors from mixed-fidelity evidence |
 | [CircSDL_History](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/CircSDL_History) | Processing history attached to each value separates conflicting evidence on metastable (Si)GeSn semiconductors |
-| [StarSDL_Reach](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/StarSDL_Reach) | Provenance records predict which multi-scale conclusions a foundation-potential release can change in SiGeC semiconductors |
+| [LeadstoSDL_Reach](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/LeadstoSDL_Reach) | Provenance records predict which multi-scale conclusions a foundation-potential release can change in SiGeC semiconductors |
 | [ForallSDL_Coverage](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/ForallSDL_Coverage) | Covering and loss-tolerant batch designs guarantee what autonomous campaigns sample in SiGeC semiconductors |
 | [TurnstileSDL_Audit](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/TurnstileSDL_Audit) | Hash-committed pre-registration and exact unlearning make belief revisions in autonomous SiGeC semiconductor campaigns checkable |
 
@@ -28,7 +28,7 @@ Our current work asks how a self-driving materials laboratory should reuse knowl
 |---|---|
 | [QedSDL_Endpoint](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/QedSDL_Endpoint) | How the fruit fly connectome can help autonomous materials discovery |
 | [HatSDL_Forecast](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/HatSDL_Forecast) | Laboratory plans let a self-driving database prepare for the workload of a two-dimensional materials laboratory network |
-| CupSDL_Teams (in preparation) | A wind tunnel for team structure: hypergraph learning on a network of frugal self-driving laboratories |
+| CupSDL_Teams (in preparation) | Hypergraphs make team structure a controlled variable in a network of low-cost self-driving laboratories |
 | [ATEKi_Credit](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/ATEKi_Credit) | Fairly dividing a discovery campaign's outcome among its members, meetings, and borrowed knowledge |
 
 #### Owners: when the knowledge is owned by separate parties
