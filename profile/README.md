@@ -35,7 +35,7 @@ Our current work asks how a self-driving materials laboratory should reuse knowl
 
 | Repository | Article |
 |---|---|
-| [MuSDL_Metering](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/MuSDL_Metering) | Measured job costs in a density functional theory screen of two-dimensional semiconductors determine when sharing information benefits a research group and a computing centre |
+| [MuSDL_Metering](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/MuSDL_Metering) | Compound-specific memory demand determines when a research group and a computing centre benefit from sharing information in two-dimensional semiconductor screening |
 | [EpsilonSDL_Disclosure](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/EpsilonSDL_Disclosure) | Minimal reciprocal disclosure in shared semiconductor screening depends on memory pressure, billing, timing masking and division of work |
 | [PerpSDL_Timing](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/PerpSDL_Timing) | Job timing reveals secret candidate compounds in shared-cluster DFT screening of two-dimensional semiconductors at every disclosure level |
 
