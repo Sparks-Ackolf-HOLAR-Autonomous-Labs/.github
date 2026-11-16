@@ -8,34 +8,34 @@ Our current work asks how a self-driving materials laboratory should reuse knowl
 
 | Repository | Article |
 |---|---|
-| [PEGKi_Rating](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/PEGKi_Rating) | Evaluating transfer across modalities in autonomous materials systems |
-| [TENKi_Savings](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/TENKi_Savings) | Borrowed knowledge cuts the cost of a materials campaign, but not on every route: transfer between databases, calculations and measurements |
-| [ATEKi_Credit](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/ATEKi_Credit) | Organizational Learning in Materials Discovery Campaigns: Which Databases, Calculations, and Agent Teams Pay Off |
-| [MuSDL_Metering](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/MuSDL_Metering) | Planning an autonomous DFT campaign: cost scaling and where a universal ML potential cannot stand in, with MX₂ layers as the case study |
-| [CircSDL_History](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/CircSDL_History) | Which version of the film does this number describe? Managing processing history of metastable (Si)GeSn films |
+| [PEGKi_Rating](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/PEGKi_Rating) | Evaluating transfer across modalities in autonomous materials systems (ready) |
+| [TENKi_Savings](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/TENKi_Savings) | Borrowed knowledge cuts the cost of a materials campaign, but not on every route: transfer between databases, calculations and measurements (ready) |
+| [ATEKi_Credit](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/ATEKi_Credit) | Organizational Learning in Materials Discovery Campaigns: Which Databases, Calculations, and Agent Teams Pay Off (ready) |
+| [MuSDL_Metering](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/MuSDL_Metering) | Planning an autonomous DFT campaign: cost scaling and where a universal ML potential cannot stand in, with MX₂ layers as the case study (ready) |
+| [CircSDL_History](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/CircSDL_History) | Which version of the film does this number describe? Managing processing history of metastable (Si)GeSn films (ready) |
 
 #### Updates: when the evidence changes
 
 | Repository | Article |
 |---|---|
-| [NablaSDL_Revision](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/NablaSDL_Revision) | Few-nanometre SiC could replace a sixth of the germanium in sintered SiGe thermoelectrics: materials informatics from mixed-fidelity evidence and graded revision of symbolic laws |
-| [LeadstoSDL_Reach](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/LeadstoSDL_Reach) | Predicting which silicon–germanium–carbon conclusions an updated machine-learned potential could change: a test against recomputation |
+| [NablaSDL_Revision](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/NablaSDL_Revision) | Few-nanometre SiC could replace a sixth of the germanium in sintered SiGe thermoelectrics: materials informatics from mixed-fidelity evidence and graded revision of symbolic laws (ready) |
+| [LeadstoSDL_Reach](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/LeadstoSDL_Reach) | Predicting which silicon–germanium–carbon conclusions an updated machine-learned potential could change: a test against recomputation (ready) |
 
 #### Group: when several deciders share the loop
 
 | Repository | Article |
 |---|---|
-| [ForallSDL_Coverage](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/ForallSDL_Coverage) | Sampling interactions is not learning them: batch design in a simulated SiGeC thermoelectric campaign |
-| [HatSDL_Forecast](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/HatSDL_Forecast) | Preparing the LIMS Database of a Two-Dimensional Materials Facility From Its Fabrication Schedule: Self-Driving Databases for Self-Driving Laboratories |
-| [QedSDL_Endpoint](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/QedSDL_Endpoint) | How the Fruit Fly Mushroom Body Can Help Autonomous Materials Discovery: Learning to Stop, Dose and End Runs from a Few Examples at One Default Setting, in Simulation |
+| [ForallSDL_Coverage](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/ForallSDL_Coverage) | Sampling interactions is not learning them: batch design in a simulated SiGeC thermoelectric campaign (ready) |
+| [HatSDL_Forecast](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/HatSDL_Forecast) | Preparing the LIMS Database of a Two-Dimensional Materials Facility From Its Fabrication Schedule: Self-Driving Databases for Self-Driving Laboratories (ready) |
+| [QedSDL_Endpoint](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/QedSDL_Endpoint) | How the Fruit Fly Mushroom Body Can Help Autonomous Materials Discovery: Learning to Stop, Dose and End Runs from a Few Examples at One Default Setting, in Simulation (in preparation) |
 
 #### Owners: when the knowledge is owned by separate parties
 
 | Repository | Article |
 |---|---|
-| [EpsilonSDL_Disclosure](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/EpsilonSDL_Disclosure) | Where should data flow between laboratories, computing centres and shared instruments? |
-| [PerpSDL_Timing](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/PerpSDL_Timing) | What job timing reveals about a group's candidate compounds on a shared cluster (article in preparation) |
-| [TurnstileSDL_Audit](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/TurnstileSDL_Audit) | Raw files went missing while every hash matched: letting anyone recheck how an autonomous SiGeC materials lab changes its mind |
+| [EpsilonSDL_Disclosure](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/EpsilonSDL_Disclosure) | Where should data flow between laboratories, computing centres and shared instruments? (ready) |
+| [PerpSDL_Timing](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/PerpSDL_Timing) | What job timing reveals about a group's candidate compounds on a shared cluster (in preparation) |
+| [TurnstileSDL_Audit](https://github.com/Sparks-Ackolf-HOLAR-Autonomous-Labs/TurnstileSDL_Audit) | Raw files went missing while every hash matched: letting anyone recheck how an autonomous SiGeC materials lab changes its mind (ready) |
 
 #### Capstone: one device, every lesson
 
